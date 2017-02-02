@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta t="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.1/angular.min.js"
+            type="application/javascript"></script>
+
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <link href="css/creative.css" rel="stylesheet">
+
+    <script type="text/javascript">
+        var valid = false;
+
+        function validate() {
+            var msg = "";
+
+            var uname = document.myForm.userName.value;
+            var pwd = document.myForm.pwd.value;
+            if (uname.length == 0 && pwd.length == 0)
+                msg = msg + "Please enter username and password \n";
+            else if (pwd.length == 0)
+                msg = msg + "Please enter password \n";
+            else if (uname.length == 0)
+                msg = msg + "Please enter username \n";
+
+            if (msg.length > 0) {
+                window.alert(msg);
+                valid = false;
+            }
+            else
+                valid = true;
+            return valid;
+        }
+    </script>
+
+</head>
+<body ng-app ng-controller="LoginController" class="about" background="background.jpg">
+<div class="container">
+    <div class="row">
+        <div class="form-module">
+            <div class="form-top">
+                <div class="form-top-left">
+                    <h3><b>Welcome </b></h3>
+                    <p style="color:black">Enter username and password to log on</p>
+                </div>
+                <div class="form-top-right">
+                    <i class="fa fa-key"></i>
+                </div>
+            </div>
+            <div class="form-bottom">
+                <form role="form" name="myForm" onsubmit="return validate()" method="post" class="login-form"
+                      action="home.html">
+                    <div class="form-group">
+                        <label class="sr-only">Username</label>
+                        <input ng-model="user.firstName" type="text" placeholder="Username..."
+                               class="form-username form-control" name="userName">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only">Password</label>
+                        <input ng-model="user.pwd" type="password" placeholder="Password..."
+                               class="form-password form-control" name="pwd">
+                    </div>
+                    <button type="submit" ng-click="login(user.firstName, user.pwd)" value="Sign in" class="btn">Sign in
+                    </button>
+                    <br/> <br/>
+                    <!--</div>-->
+                    Not yet Member?<a href="register.html"> <b>Click here to register</b></a>
+                </form>
+            </div>
+            <a href="index.html"> <u><b>Back to home page</b></u></a>
+        </div>
+    </div>
+</div>
+<script>
+    function LoginController($scope) {
+        $scope.logins = [];
+        $scope.login = function (user, pwd) {
+            localStorage.setItem("password", pwd);
+            localStorage.setItem("username", user);
+            $scope.logins.push(localStorage.getItem("name") + " was logged in.");
+        };
+    }
+</script>
+</body>
+</html>
