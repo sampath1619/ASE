@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_8522c36898b8ffdfc96af247b68fc201d10f8652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\VideoApplication\common\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\VideoApplication-common-unspecified_83c1ce876b0eb7213d2f141064cb1e26e182b304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_a93507a5e6be9e11bcd1875c9f693422d1073990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_a162174f3223982318a8dae8055fc800271159b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_4b2984855d7decacb98cbc59d0a584e549dd0461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\VideoApplication\commonwidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\VideoApplication-commonwidget-unspecified_467cba3c203e61d5606276fc3717ca2977981d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_0035f52c28ccd9a25041c9e457f8a46a1973313f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gattu\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.0.0-alpha-7\52587934797e3433992a9d69178a1471e4a8f85d\protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\protobuf-javanano-3.0.0-alpha-7_2b59f88632adbda6858f5509f744cb799a36b120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\VideoApplication\videowidget\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f393ba16cb12a4797191ad798f2e00e58f1e628a">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\VideoApplication-videowidget-unspecified_d4a4e5c3f84d5ef3423994f6eeb6b8ac3de16a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_926696c27cba22ac1594c2efa6a22aad33cda9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f3e2d2ff3a83b9075a4b41633b0a87d5c7f66a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.10_4c62101d28856b44bcd371ec448e7c6fd0125187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gattu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_e647bcdbd6749a2846624a986028b2cada00b522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_2265bfdd51fefa930c272ee0a028411f86aedfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_e7ae47e1d2373b704167f06bee26c4db28182140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_6a1b3ccb2d361f8fb0c30bb41b4a8ef4d0d6349f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_955e784188ee4f2ae39490f7fbe24c3c9f17684f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\MS\SEM2\ASE\Tutorial 6 - Google Cardboard Development\VideoApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_29604176dcaabb72d91462ad7ff716bbde20d5d5.jar" />
+    </item>
+
+</items>
